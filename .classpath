@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/jsoup-1.14.3.jar" sourcepath="C:/Users/ur2ku/AppData/Local/Temp/.org.sf.feeling.decompiler1650696195897/source/jsoup-1.14.3-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
